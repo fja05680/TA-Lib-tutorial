@@ -257,7 +257,7 @@ Fetch symbol data from cache, if available.
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div><style scoped="">.dataframe tbody tr th:only-of-type { vertical-align: middle; } .dataframe tbody tr th { vertical-align: top; } .dataframe thead th { text-align: right; }</style>
+<div>
 
 <table border="1" class="dataframe">
 
