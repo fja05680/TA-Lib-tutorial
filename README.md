@@ -56,8 +56,6 @@ We will show how to use them here, in the context of pinkfish.
 
 <div class="output_area">
 
-<div class="output_subarea output_javascript "><script type="text/javascript">var element = $('#c399dc74-0095-4d91-9ac4-e9ab290d5743'); IPython.OutputArea.prototype._should_scroll = function(lines) { return false; }</script></div>
-
 </div>
 
 </div>
