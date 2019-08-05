@@ -639,7 +639,7 @@ Select timeseries between start and end.
 
 <div class="text_cell_render border-box-sizing rendered_html">
 
-### Get info about TA-Lib[¶](#Get-info-about-TA-Lib)
+### Get info about TA-Lib
 
 </div>
 
@@ -948,7 +948,7 @@ WCLPRICE - Weighted Close Price
 
 <div class="text_cell_render border-box-sizing rendered_html">
 
-### Get info about a specific TA-Lib function[¶](#Get-info-about-a-specific-TA-Lib-function)
+### Get info about a specific TA-Lib function
 
 There are 2 different API that are available with talib, namely Function API and Abstract API. For the Function API, you pass in a price series. For the Abstract API, you pass in a collection of named inputs: 'open', 'high', 'low', 'close', and 'volume'. One or more of these may be used as defaults, but can be changed with the 'price' parameter.
 
@@ -1263,7 +1263,7 @@ If we just want to see the outputs, we can print the output_names property.
 
 <div class="text_cell_render border-box-sizing rendered_html">
 
-### Create a technical indicator using talib[¶](#Create-a-technical-indicator-using-talib)
+### Create a technical indicator using talib
 
 </div>
 
@@ -1475,7 +1475,7 @@ dtype: float64</pre>
 
 <div class="text_cell_render border-box-sizing rendered_html">
 
-### Add a technical indicator to a pinkfish timeseries[¶](#Add-a-technical-indicator-to-a-pinkfish-timeseries)
+### Add a technical indicator to a pinkfish timeseries
 
 </div>
 
@@ -1517,7 +1517,7 @@ dtype: float64</pre>
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div><style scoped="">.dataframe tbody tr th:only-of-type { vertical-align: middle; } .dataframe tbody tr th { vertical-align: top; } .dataframe thead th { text-align: right; }</style>
+<div>
 
 <table border="1" class="dataframe">
 
@@ -1689,7 +1689,7 @@ dtype: float64</pre>
 
 <div class="text_cell_render border-box-sizing rendered_html">
 
-### Try another one[¶](#Try-another-one)
+### Try another one
 
 </div>
 
@@ -1887,7 +1887,7 @@ Outputs:
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div><style scoped="">.dataframe tbody tr th:only-of-type { vertical-align: middle; } .dataframe tbody tr th { vertical-align: top; } .dataframe thead th { text-align: right; }</style>
+<div>
 
 <table border="1" class="dataframe">
 
@@ -2073,7 +2073,7 @@ Outputs:
 
 <div class="text_cell_render border-box-sizing rendered_html">
 
-### Now for something a little more difficult[¶](#Now-for-something-a-little-more-difficult)
+### Now for something a little more difficult
 
 </div>
 
@@ -2451,7 +2451,7 @@ Set timeperiod=20 and matype=MA_Type.EMA
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div><style scoped="">.dataframe tbody tr th:only-of-type { vertical-align: middle; } .dataframe tbody tr th { vertical-align: top; } .dataframe thead th { text-align: right; }</style>
+<div>
 
 <table border="1" class="dataframe">
 
