@@ -1,4 +1,4 @@
-# TA-Lib-tutorial
+# TA-Lib Tutorial
 
 A short tutorial on how to use the TA-Lib techincal analysis library.
 https://www.ta-lib.org/
@@ -14,7 +14,6 @@ https://www.ta-lib.org/
 
 <div class="text_cell_render border-box-sizing rendered_html">
 
-# TA-Lib Tutorial[¶](#TA-Lib-Tutorial)
 
 "TA-Lib is widely used by trading software developers requiring to perform technical analysis of financial market data."  
 We will show how to use them here, in the context of pinkfish.
