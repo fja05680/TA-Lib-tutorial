@@ -1,6 +1,6 @@
 # TA-Lib Tutorial
 
-A short tutorial on how to use the TA-Lib techincal analysis library.
+A short tutorial on how to use the TA-Lib technical analysis library.
 https://www.ta-lib.org/
 
 
