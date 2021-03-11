@@ -469,7 +469,7 @@ sma200.tail()
 
 
 
-### Add a technical indicator to a pinkfish timeseries
+### Add a technical indicator to a timeseries
 
 
 ```python
